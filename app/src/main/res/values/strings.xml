@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="mis_tareas">Mis Tareas</string>
+    <string name="imagen_de_fondo">Imagen de fondo</string>
+    <string name="it_edix">IT Edix</string>
+    <string name="nombre">Nombre</string>
+    <string name="pass">Contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="crea_una_cuenta">Crea una cuenta</string>
+    <string name="filtro">Filtro</string>
+    <string name="termiado">Terminado</string>
+    <string name="registro">Registro</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="mi_lista">Mi Lista</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a_adir">Añadir</string>
+    <string name="modo_noche">Modo Noche</string>
+    <string name="cambiar_tama_o">Cambiar Tamaño</string>
+</resources>
